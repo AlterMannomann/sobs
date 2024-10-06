@@ -6,3 +6,4 @@ A system to organize the execution of scripts or other database objects.
 
 &copy; 2024 Michael Lindenau licensed via [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.txt)
 
+For further questions on copyleft and usage see [contact](CONTACT.md).
